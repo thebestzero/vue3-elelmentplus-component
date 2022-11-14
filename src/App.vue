@@ -3,8 +3,10 @@
 </template>
 
 <script setup lang="ts">
+
 </script>
 
-<style scoped>
-
+<style lang="scss">
+@import "./styles/base.scss";
+@import "./styles/ui.scss";
 </style>
